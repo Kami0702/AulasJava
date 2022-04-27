@@ -1,4 +1,6 @@
-                          
+import java.util.Scanner;                          
+
+
 public class main {
 
 	public static void main(String[] args) {
@@ -111,7 +113,7 @@ if(idadePessoa < 18) {
 // System.out.println("Teste " + x);
 Scanner entrada = new Scanner(System.in);
 
-entrada.newtInt();
+//entrada.newtInt();
 
 // ____________________________________________________________________                                
 	 
@@ -120,10 +122,13 @@ entrada.newtInt();
 
 //	}
    
-for(int x1=0; x1<=10; x1++) {
- System.out.println("2 x " + x1 + "=" + x1*2 );
- 
-}
+// System.out.println("este "+ x);
+
+Scanner entrada = new Scanner(System.in);
+System.out.println("Digite um numero qualquer");
+int y = entrada.nextInt()
+
+for(int)
 	
 	
 
