@@ -12,5 +12,5 @@ public class main  {
 		
 		
 	}
-
+cadastro de pessoas utulizando funções passadas como while e if else
 }
