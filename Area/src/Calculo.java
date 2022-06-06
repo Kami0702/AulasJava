@@ -15,7 +15,7 @@ public class Calculo {
 
 
 
-			
+			calculo de medidas exatas de formas geometricas utulizando as funções passadas
 
 	
 
