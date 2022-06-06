@@ -36,7 +36,7 @@ public class Cliente {
 
 	@Override
 	public String toString() {
-		return "**************************\n" + "Cliente: \nNome =" + nome + ", \nCPF= " + cpf + ", \nN�merodaConta = " + numConta + " \n************************************************";
+		return "**************************\n" + "Cliente: \nNome =" + nome + ", \nCPF= " + cpf + ", \nNúmerodaConta = " + numConta + " \n************************************************";
 		
 	}
 
@@ -58,5 +58,5 @@ public class Cliente {
 		Cliente other = (Cliente) obj;
 		return Objects.equals(nome, other.nome) && numConta == other.numConta;
 	}
-
+modificador de acesso usando privae para tornar todas informações do cliente privadas podendo so ser acssa atraves dos metodos
 }
