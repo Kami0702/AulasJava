@@ -14,6 +14,7 @@ public class Mouse {
 	this.attBotoe = arrayAuxiliar1[1].trim();
 	
 	}
+	array serve para utilizar fazendo lista e ordenando uma abaixo da outra para ele funciona é necessario utilizar junto o list assim fica tudo inumerado e abaixo do outro
 	
 
 }
