@@ -21,5 +21,7 @@ public class Main {
 		System.out.println("string2");
 	}
 	
-}	
+}	utilizando try, BufferedWriter, FileWriter
+
+FileWriter serve para escreve no arquivo enquanto buffewrite serve para grava as informações
 		
