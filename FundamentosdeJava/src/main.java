@@ -16,7 +16,7 @@ public class main {
  System.out.println(z);
  
  
-a = (int)y; //*casting - escalação é quando passa a variavel para outra sem perder o conteudo;
+a = (int)y; //*casting - escalaÃ§Ã£o Ã© quando passa a variavel para outra sem perder o conteudo;
 b = x;  //*casting implicint pega o resto e preenche com zero
  
  System.out.println(a);
@@ -25,14 +25,14 @@ System.out.println(b);
 int idadePessoa = 60;
 
 if(idadePessoa < 18) {
-	System.out.println("Você não pode beber") ;	
+	System.out.println("VocÃª nÃ£o pode beber") ;	
 }
 	else if(idadePessoa < 60) {
 		System.out.println("Bora toma uma");
 	}else	{
-		System.out.println("quanto é sua aposentadoria?");	
+		System.out.println("quanto Ã© sua aposentadoria?");	
 		
- System.out.println("Você tem " +idadePessoa + " anos"); 
+ System.out.println("VocÃª tem " +idadePessoa + " anos"); 
  
  
 } 
@@ -46,7 +46,7 @@ if(idadePessoa < 18) {
 	  //System.out.println("Segunda");
 	  //break;
   //case 3:
-	  //System.out.println("Terça");  
+	  //System.out.println("TerÃ§a");  
 	  //break;
   //case 4:
 	  //System.out.println("Quarta");
@@ -61,20 +61,20 @@ if(idadePessoa < 18) {
 	 // System.out.println("Sabado");
 	  //      break;	
  	//default: 
- 		//System.out.println("Esse numero não representa um dia da semana");
+ 		//System.out.println("Esse numero nÃ£o representa um dia da semana");
  //   }
 
  //char caractere = 'c';
 
 		 //*switch (caractere) {
 //*case 'a':
-			 //*System.out.println("seu caractere é a");
+			 //*System.out.println("seu caractere Ã© a");
 	//		 break;
 		// case 'b':
-			// System.out.println("seu caractere é b");
+			// System.out.println("seu caractere Ã© b");
 			// break;
 		// default:
-			 //System.out.println("valor inválido");
+			 //System.out.println("valor invÃ¡lido");
 
 
  //String farol = "vermelho"; 
@@ -84,7 +84,7 @@ if(idadePessoa < 18) {
  //System.out.println("Pare!!");
  //break;
  //case "amarelo":
-//System.out.println("Atenção");
+//System.out.println("AtenÃ§Ã£o");
 //break;
  //case "verde":
 //System.out.println("Siga!!");
@@ -96,7 +96,7 @@ if(idadePessoa < 18) {
 // }
 	
 //  int x=0
-//while serve para fazer laços repetiçoes		  
+//while serve para fazer laÃ§os repetiÃ§oes		  
   // while(x<10) {
 	// System.out.println(x);
 //	x=x+1;
@@ -130,8 +130,8 @@ int y = entrada.nextInt()
 
 for(int)
 	
-	
-
+	 break Ã© utilizado para uma declaraÃ§Ã£o switch ou um loop. Onde Ã© permanece parado o fluxo atual em uma condiÃ§Ã£o especifica do programa
+while responsavel pela repetiÃ§Ã£o enquanto Do while  do/while tem quase o mesmo funcionamento que o while, a diferenÃ§a Ã© que com o uso dele teremos os comandos executados ao menos uma Ãºnica vez.
 	}
 	
 
