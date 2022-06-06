@@ -11,7 +11,7 @@ S
 		
 
 		if(this.numfigurinhas<numfigurinhas) { 
-			System.out.println("A quantidade de figurinhas não é suficiente para realizar esse metodo");
+			System.out.println("A quantidade de figurinhas nÃ£o Ã© suficiente para realizar esse metodo");
 			//*retorno = falso;
 			return false;
 		
@@ -20,3 +20,4 @@ S
 			pessoa.receber(numfigurinhas);
 			return true;
 }
+utilizando return,false, true e boolean na atividade de trocar figurinhas
