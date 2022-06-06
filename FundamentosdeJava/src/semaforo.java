@@ -10,14 +10,14 @@ public class semaforo {
 			System.out.println("Siga!");
 			break;
 		case "Amarelo":
-			System.out.println("Aten��o");
+			System.out.println("Atenção");
 			break;
 		case "Vermelho":
 			System.out.println("PARE!");
 			break;
 		default:
-			System.out.println("Valor inv�lido");
+			System.out.println("Valor inválido");
 		}
-	}
+	} switch é responsavel por fazer teste de decisão de simples funções e responsavel por executar as atividades apos a primeira
 
 }
