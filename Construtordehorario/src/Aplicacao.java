@@ -15,5 +15,5 @@ public class Aplicacao {
 		d3.imprimir(Data.FORMATO_12H);
 		d3.imprimir(Data.FORMATO_24H);
 	}
-
+aplicação e metodos utilizando variaveis para fazer data e horarios
 }
