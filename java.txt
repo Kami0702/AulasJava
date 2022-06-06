@@ -50,4 +50,4 @@ public class CalculadoraTop {
 		}
 		
 	    }
-		
+		calculadora utilizando função if e scanner
