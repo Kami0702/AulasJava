@@ -18,4 +18,4 @@ int somar(int x, int y) {
 		
 		return x * y;
 		}
-}
+}utulizando função x e y para formar as variaveis 
