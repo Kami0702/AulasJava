@@ -7,3 +7,4 @@ public class Lampada {
 	public void desligada();
 
 }
+usando função boolean para fazer ação de lampada simulando ela estando ligada e desligada
