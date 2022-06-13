@@ -4,6 +4,9 @@ public class Cliente {
 	private String nome;
 	private int cpf;
 	private int numConta;
+	private Conta conta;
+	
+	
 	
 	public void cliente() {
 
@@ -26,13 +29,17 @@ public class Cliente {
 		this.cpf = cpf;
 	}
 
-	public int getNumConta() {
-		return numConta;
+	
+
+	public Conta getConta() {
+		return conta;
 	}
 
-	public void setNumConta(int numConta) {
-		this.numConta = numConta;
+
+	public void setConta(Conta conta) {
+		this.conta = conta;
 	}
+
 
 	@Override
 	public String toString() {
@@ -58,5 +65,5 @@ public class Cliente {
 		Cliente other = (Cliente) obj;
 		return Objects.equals(nome, other.nome) && numConta == other.numConta;
 	}
-//modificador de acesso usando privae para tornar todas informações do cliente privadas podendo so ser acssa atraves dos metodos
+
 }
